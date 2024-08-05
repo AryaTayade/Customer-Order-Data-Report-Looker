@@ -1,4 +1,4 @@
-# Customer Orders Data Report
+# Customer Orders Data Report (https://lookerstudio.google.com/reporting/d44b35c1-9b7c-40f6-88a6-b3d7dab036c8)
 
 ## Introduction
 
@@ -12,7 +12,7 @@ I analyzed customer order data to provide insights into sales trends, customer s
 - Customer Segmentation: Analysis of orders by customer segments (Consumer, Corporate, Home Office) to tailor marketing strategies and improve customer targeting.
 - Product Category Performance: Insights into the sales distribution across product categories (Office Supplies, Furniture, Technology), aiding in inventory and product development decisions.
 - Sales Trends: Visualization of order trends over time, both annually and monthly, to identify seasonal patterns and forecast future sales.
-- Top Performing Cities: Highlight of cities with the highest order volumes, providing opportunities for targeted marketing and sales efforts.
+- Top Performing Cities: Highlight cities with the highest order volumes, providing opportunities for targeted marketing and sales efforts.
 - Detailed Order Analysis: Comprehensive table showing individual order details, facilitating granular analysis and customer service improvements.
 
 ## Conclusion
